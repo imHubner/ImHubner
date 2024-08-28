@@ -50,9 +50,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ImHubner/ImHubner/output/snake.svg" alt="Snake animation" />
-
-###
