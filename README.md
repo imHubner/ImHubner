@@ -1,6 +1,6 @@
-<h2 align="left">Hello 👋! My name is Lucas Hubner and I'm a Web Developer from São Paulo, Brazil !</h2>
+<h2 align="left">Hello 👋! My name is Lucas Hubner and I'm a FullStack Developer from São Paulo, Brazil</h2>
 
-#
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -26,9 +26,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="30" alt="phpstorm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" height="30" alt="polygon logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
 </div>
 
-##
+###
 
 <div align="left">
   <a href="https://www.instagram.com/ls_hubner/" target="_blank">
@@ -43,12 +51,12 @@
   </a>
 </div>
 
-##
+###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ImHubner&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=ImHubner&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ImHubner&radius=16&theme=react&area=true&order=5" height="240" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ImHubner&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=ImHubner&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ImHubner&radius=16&theme=gotham&area=true&order=5" height="240" alt="activity-graph graph"  />
 </div>
 
-#
+###
