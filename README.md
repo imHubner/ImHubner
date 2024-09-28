@@ -46,7 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
 </div>
 
-<h2 align= "left">Social Midia</h2>
+<h2 align= "left">Social Midia -></h2>
 
 <div align="left">
   <a href="https://www.instagram.com/ls_hubner/" target="_blank">
@@ -61,7 +61,7 @@
   </a>
 </div>
 
-<h2 align= "left">Stats ---></h2>
+<h2 align= "left">Stats -></h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ImHubner&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
